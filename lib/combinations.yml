@@ -1,0 +1,571 @@
+---
+1up:
+  egg: yoshi
+  man: mario
+air:
+  air: wind
+  bacteria: flu
+  cloud: sky
+  dinosaur: pterodactyl
+  earth: dust
+  egg: bird
+  energy: storm
+  fire: energy
+  lava: stone
+  steam: cloud
+  water: steam
+  worm: butterfly
+airplane:
+  metal: aluminium
+alcohol:
+  flower: perfume
+  oxygen: vinegar
+  peat: scotch_whiskey
+  water: vodka
+  wheat: beer
+  worm: tequila
+algae:
+  fire: iodine
+alien:
+  airplane: ufo
+aluminuim:
+  glass: mirror
+  oxygen: ruby
+arable:
+  seed: wheat
+arms:
+  gunpowder: firearms
+  hunter: warrior
+  light: lightsaber
+  man: hunter
+  poison: poisoned_weapons
+ash:
+  fat: soap
+  glass: ashtray
+  life: ghost
+assassin:
+  firearms: sniper
+  time: prisoner
+bacteria:
+  milk: yogurt
+  plankton: fish
+  swamp: sulfur
+  water: plankton
+bat:
+  man: batman
+beast:
+  cart: team
+  forest: bear
+  hunter: wool
+  man: livestock
+  museum: zoo
+  vampire: werewolf
+  water: whale
+beatles:
+  country: united_kingdom
+bee:
+  tree: honey
+beetle:
+  beetle: the_beatles
+  manure: scarab
+  sand: scorpion
+beetroot:
+  fire: borscht
+berry:
+  pressure: juice
+bicycle:
+  combustion_engine: morotcycle
+bird:
+  flu: avian_flu
+  hunter: feather
+  ice: penguin
+  storm: thunderbird
+  vampire: bat
+bitumen:
+  pressure: petroleum
+blood:
+  man: vampire
+  worm: leech
+boat:
+  cloth: sailboat
+  combustion_engine: motorboat
+  wood: wooden_ship
+boiler:
+  coal: steam_engine
+book:
+  book: library
+  sex: kama_sutra
+brick:
+  concrete: brick_house
+brick_house:
+  beer: bar
+  fossil: museum
+  glass: skyscraper
+  sick: hospital
+butterfly:
+  earth: fossil
+cactus:
+  beetle: cochineal
+cancer:
+  bike: lance_armstrong
+car:
+  beetle: vw_beetle
+  life: transformers
+carbon_dioxide:
+  water: soda_water
+cart:
+  combustion_engine: car
+  steam_engine: locomotive
+cat:
+  country: egypt
+  dog: catdog
+  mummy: egypt
+cement:
+  water: concrete
+ceramics:
+  coin: piggy_bank
+champagne:
+  country: france
+cheese:
+  beast: mouse
+  dough: pizza
+  fire: fondue
+  sky: moon
+chicken:
+  fire: fried_chicken
+  hut: hen_coop
+china:
+  cloth: silk
+chocolate:
+  fire: hot_chocolate
+city:
+  city: country
+  water: venice
+clay:
+  fire: brick
+  life: golem
+  limestone: cement
+  man: ceramics
+cloth:
+  man: clothing
+  wooden_ship: sailing_ship
+coal:
+  pressure: uncut_diamond
+coca-cola:
+  country: usa
+  geyser: mentos
+cochineal:
+  fire: carmine
+cocoa:
+  sugar: chocolate
+coin:
+  paper: money
+continent:
+  continent: planet
+corpse:
+  bird: vulture
+  electricity: frankenstein
+  wood: coffin
+country:
+  country: continent
+dam:
+  beast: beaver
+desert:
+  beast: camel
+  tree: cactus
+dilemma:
+  scientist: philosophy
+dinosaur:
+  fire: dragon
+  pterodactyl: dragon
+doctor:
+  lobster: dr_zoidberg
+dough:
+  fire: bread
+dragon:
+  country: china
+  warrior: hero
+dust:
+  fire: gunpowder
+  water: mud
+earth:
+  algae: mushroom
+  corpse: grave
+  earth: pressure
+  egg: dinosaur
+  fire: lava
+  lizard: beast
+  moss: grass
+  plankton: worm
+  seed: tree
+  tool: arable
+  water: swamp
+  wood: grape
+  worm: beetle
+egg:
+  chicken: dilemma
+  diamond: fabrege_egg
+  fire: omelette
+  life: chicken
+electricity:
+  glass: light_bulb
+  light_bulb: light
+  water: oxygen
+energy:
+  metal: electricity
+  swamp: life
+feather:
+  cloth: pillow
+  paper: book
+fire:
+  alcohol: molotov_cocktail
+  bird: phoenix
+  bread: toast
+  grass: tobacco
+  life: fire_elemental
+  limestone: lime
+  man: corpse
+  meat: barbeque
+  pig: bacon
+  sand: glass
+  stone: metal
+  tree: coal
+  water: alcohol
+firearms:
+  man: soldier
+fish:
+  algae: sushi
+  egg: caviar
+  electricity: electric_ray
+  fish: caviar
+  poison: fugu
+flour:
+  beetle: weevil
+  water: dough
+flower:
+  beetle: bee
+fondue:
+  country: switzerland
+forest:
+  ghost: totoro
+  hero: robin_hood
+fossil:
+  life: zombie
+  pressure: kerogen
+frog:
+  1up: kangaroo
+fruit:
+  dough: pie
+gasoline:
+  fire: explosion
+ghost:
+  energy: ectoplasm
+glass:
+  bacteria: petri_dish
+  fire: lamp
+  fish: aquarium
+  sand: hourglass
+gold:
+  robot: c-3po
+golem:
+  beast: man
+  life: man
+grape:
+  alcohol: wine
+grass:
+  fruit: berry
+  livestock: manure
+  swamp: reed
+grave:
+  grave: cemetery
+grove:
+  grove: forest
+hero:
+  fire: firefighter
+hospital:
+  car: ambulance
+  scientist: doctor
+hourglass:
+  electricity: clock
+hunter:
+  fish: fisherman
+  ghost: ghostbusters
+jedi:
+  assassin: sith
+  sith: star_wars
+  swamp: yoda
+kama_sutra:
+  country: india
+kangaroo:
+  country: austrialia
+kerogen:
+  pressure: bitumen
+knife:
+  knife: scissors
+  tool: swiss_army_knife
+lamp:
+  ghost: genie
+lava:
+  lamp: lava_lamp
+  life: lava_golem
+  pressure: volcano
+lawn_mower:
+  arable: tractor
+library:
+  man: scientist
+life:
+  dust: mite
+  hourglass: time
+  mushroom: 1up
+  sand: seed
+  stone: egg
+  swamp: bacteria
+  water: algae
+light:
+  beetle: firefly
+  storm: rainbow
+lime:
+  reed: sugar
+limestone:
+  manure: saltpeter
+livestock:
+  livestock: milk
+  man: milk
+  mud: pig
+lizard:
+  fire: salamander
+  swamp: frog
+man:
+  alcohol: alcoholic
+  boat: sailor
+  flu: sick
+  light_bulb: idea
+  metal: tool
+  pig: salo
+  poisoned_weapons: assassin
+  seed: farmer
+  sex: baby
+  stone: hut
+  time: old_man
+  tobacco: cancer
+  vicodin: house_m_d
+  woman: sex
+  yogurt: diet
+meat:
+  bread: sandwich
+  tool: knife
+metal:
+  bird: airplane
+  life: metal_golem
+  steam: boiler
+  tool: arms
+  wind: sound
+metal_golem:
+  electricity: robot
+microchip:
+  book: e-book
+milk:
+  man: woman
+  yogurt: soured_milk
+mold:
+  scientist: penicillin
+moon:
+  beast: wolf
+  metal: silver
+moss:
+  swamp: fern
+mouse:
+  hunter: cat
+mushroom:
+  algae: lichen
+  mud: mold
+  tool: poison
+old_man:
+  christmas_tree: santa_clause
+oxygen:
+  electricity: ozone
+  hydrogen: oxyhydrogen
+  man: carbon_dioxide
+paper:
+  tobacco: cigarettes
+  zombie: mummy
+petroleum:
+  country: saudi_arabia
+  pressure: gasoline
+phone:
+  fruit: iphone
+pig:
+  flu: swine_flu
+plankton:
+  stone: shells
+pressure:
+  sand: silicon
+quark:
+  fire: cheese
+reed:
+  tool: paper
+robin_hood:
+  arms: bow
+salo:
+  country: ukraine
+sand:
+  egg: turtle
+  sand: desert
+  shells: pearl
+  storm: sandstorm
+  swamp: clay
+sauna:
+  country: finland
+scientist:
+  energy: albert_einstein
+scissors:
+  combustion_engine: lawn_mower
+scorpion:
+  water: lobster
+scotch_whiskey:
+  country: scotland
+scotland:
+  clothing: kilt
+sea:
+  fire: salt
+  volcano: island
+seed:
+  mexico: cocoa
+sex:
+  city: sex_and_the_city
+  woman: baby
+shells:
+  stone: limestone
+  worm: snail
+sick:
+  doctor: vicodin
+silicon:
+  electricity: transistor
+silver:
+  gold: copper
+  mario: coin
+  pressure: coin
+sky:
+  chariot: sun
+skyscraper:
+  light: lighthouse
+  skyscraper: city
+snake:
+  bird: quetzalcoatl
+  electricity: electric_eel
+  worm: lizard
+soda_water:
+  carmine: coca-cola
+  wine: champagne
+sound:
+  idea: music
+soured_milk:
+  fire: whey
+spinning_wheel:
+  wool: yarn
+  yarn: thread
+star:
+  life: alien
+star_wars:
+  robot: r2-d2
+steam:
+  earth: geyser
+  hut: sauna
+steam_engine:
+  gasoline: combustion_engine
+  wooden_ship: steamer
+stone:
+  tool: statue
+  wheat: flour
+storm:
+  electricity: thunderstorm
+  water: typhoon
+sugar:
+  fire: caramel
+  seed: beetroot
+sun:
+  flower: sunflower
+  scientist: star
+sushi:
+  country: japan
+swamp:
+  algae: moss
+  sand: snake
+  tree: peat
+  worm: snake
+tequila:
+  country: mexico
+thread:
+  copper: wire
+thunderstorm:
+  metal: lightning_rod
+tobacco:
+  cigarettes: smoke
+  fire: smoke
+tool:
+  tree: wood
+  wood: wheel
+  wool: cloth
+tractor:
+  country: belarus
+transistor:
+  transistor: microchip
+transylvania:
+  country: romania
+tree:
+  beast: panda
+  farmer: fruit
+  life: ent
+  lightbulb: christmas_tree
+  tree: grove
+ufo:
+  arable: crop_circles
+uncut_diamond:
+  tool: diamond
+usa:
+  statue: statue_of_liberty
+vampire:
+  country: transylvania
+  werewolf: twilight_saga
+venice:
+  country: italy
+vodka:
+  country: russia
+volcano:
+  country: iceland
+vw_beetle:
+  country: germany
+warrior:
+  cart: chariot
+  lightsaber: jedi
+water:
+  brick: dam
+  cloud: rain
+  dinosaur: plesiosauria
+  glass: ice
+  metal: rust
+  sand: beach
+  seed: flower
+  stone: sand
+  water: sea
+whale:
+  earth: elephant
+wheel:
+  wheel: bicycle
+  wood: cart
+  wool: spinning_wheel
+wire:
+  sound: phone
+wolf:
+  man: dog
+woman:
+  fish: mermaid
+  planet: venus
+wood:
+  knife: stake
+  life: pinocchio
+  water: boat
+yarn:
+  tool: sweater
+zombie:
+  corpse: undead
