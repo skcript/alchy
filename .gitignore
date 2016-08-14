@@ -1,3 +1,6 @@
+.git
+.DS_Store
+.ruby-version
 *.gem
 *.rbc
 /.config

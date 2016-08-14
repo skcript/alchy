@@ -14,9 +14,14 @@ module Alchemy
       game.show
     end
 
-    # desc "info", "shows element origin"
-    # def info(element)
+    # desc "origin", "shows element origin"
+    # def origin(element)
     #   Alchemy::Element.new(element).origin
+    # end
+    #
+    # desc "offsprings", "shows all possible offsprings of element"
+    # def offsprings(element)
+    #   Alchemy::Element.new(element).offsprings
     # end
   end
 end
