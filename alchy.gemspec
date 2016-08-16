@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email       = 'swaathi@skcript.com'
   s.files       = Dir["{lib}/**/*.rb", "{lib}/combinations.yml", "{bin}/**"]
   s.executables = s.files.grep(%r{^bin/}) { |f| File.basename(f) }
-  s.homepage    = 'http://swaathi.com'
+  s.homepage    = 'http://github.com/skcript/alchy'
   s.license     = 'MIT'
 
   s.add_dependency 'thor', '~> 0'
