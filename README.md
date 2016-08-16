@@ -8,13 +8,13 @@ The terminal client of the famous [Zed's Alchemy](https://play.google.com/store/
 gem install alchy
 ```
 
-### How to install from source
+### Installing from source
 1. Download/Clone this project
 2. Cd into the folder in your terminal
 3. Run `gem build alchy.gemspec`
 4. Run `gem install ./alchy-0.0.1.gem`
 
-### How to play
+### Playing
 To show your elements,
 ```
 alchy show
