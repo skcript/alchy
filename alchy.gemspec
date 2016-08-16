@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   puts Dir["{bin}/**"]
   puts Dir["{bin}/*.*"]
 
-  s.name        = 'alchemy'
+  s.name        = 'alchy'
   s.version     = '0.0.1'
   s.date        = '2016-08-13'
   s.summary     = 'Play Alchemy right from your terminal!'
@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
   s.homepage    = 'http://swaathi.com'
   s.license     = 'MIT'
 
-  s.add_dependency 'thor'
+  s.add_dependency 'thor', '~> 0'
 end

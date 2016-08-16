@@ -1,4 +1,4 @@
-module Alchemy
+module Alchy
   class Offspring
     attr_accessor :mother, :father, :child
 
@@ -18,7 +18,7 @@ module Alchemy
 
     private
     def find
-      Alchemy::ELEMENTS[mother].to_h[father] || Alchemy::ELEMENTS[father].to_h[mother]
+      Alchy::ELEMENTS[mother].to_h[father] || Alchy::ELEMENTS[father].to_h[mother]
     end
   end
 end

@@ -2,4 +2,4 @@
 
 require 'alchemy'
 
-Alchemy::Terminal.start( ARGV )
+Alchy::Terminal.start( ARGV )
