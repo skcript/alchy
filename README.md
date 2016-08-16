@@ -10,12 +10,12 @@ The terminal client of the famous [Zed's Alchemy](https://play.google.com/store/
 4. Run `gem install ./alchemy-0.0.1.gem`
 
 ### How to play
-To show your elements, type in
+To show your elements,
 ```
 alchemy show
 ```
 
-To combine two elements, type in
+To combine two elements,
 ```
 alchemy combine air air
 ```
