@@ -1,12 +1,12 @@
 require 'fileutils'
 require 'yaml'
 
-require 'alchemy/offspring'
-require 'alchemy/element'
-require 'alchemy/game'
-require 'alchemy/cli'
+require 'alchy/offspring'
+require 'alchy/element'
+require 'alchy/game'
+require 'alchy/cli'
 
-module Alchemy
+module Alchy
   ELEMENTS = YAML::load_file(File.join(File.dirname(__FILE__), 'combinations.yml'))
   # def sort
   #   hash = YAML::load_file("combinations.yml")

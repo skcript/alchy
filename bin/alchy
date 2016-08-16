@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby -wU
 
-require 'alchemy'
+require 'alchy'
 
 Alchy::Terminal.start( ARGV )

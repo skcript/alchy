@@ -1,8 +1,4 @@
 Gem::Specification.new do |s|
-  puts Dir["{bin}/*"]
-  puts Dir["{bin}/**"]
-  puts Dir["{bin}/*.*"]
-
   s.name        = 'alchy'
   s.version     = '0.0.1'
   s.date        = '2016-08-13'
