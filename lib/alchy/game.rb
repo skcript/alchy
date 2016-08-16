@@ -1,7 +1,7 @@
 module Alchy
   class Game
     attr_accessor :discovered
-    SAVE_FILE = "#{Dir.home}/alchemy.yml"
+    SAVE_FILE = "#{Dir.home}/alchy.yml"
     STARTERS = %w(earth water air fire)
 
     def initialize
