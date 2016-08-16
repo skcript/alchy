@@ -1,4 +1,4 @@
-module Alchemy
+module Alchy
   class Game
     attr_accessor :discovered
     SAVE_FILE = "#{Dir.home}/alchemy.yml"

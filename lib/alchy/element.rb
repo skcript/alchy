@@ -1,4 +1,4 @@
-module Alchemy
+module Alchy
   class Element
     attr_accessor :name
 
@@ -18,7 +18,7 @@ module Alchemy
 
     private
     def read
-      Alchemy::ELEMENTS.each do |mother, combi|
+      Alchy::ELEMENTS.each do |mother, combi|
         if mother == self.name
           combi.each do |father, child|
             yield [father, child]
@@ -32,7 +32,7 @@ module Alchemy
     end
 
     def search_for(&block)
-      Alchemy::ELEMENTS.each do |mother, combi|
+      Alchy::ELEMENTS.each do |mother, combi|
         combi.each do |father, child|
           yield [mother, father] if child == self.name
         end
