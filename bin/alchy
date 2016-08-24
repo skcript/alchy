@@ -2,4 +2,4 @@
 
 require 'alchy'
 
-Alchy::Terminal.start( ARGV )
+Alchy::Terminal.start(ARGV)
